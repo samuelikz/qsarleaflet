@@ -1,4 +1,3 @@
-
 <template>
   <q-layout view="lhr lpR lfr">
 
@@ -8,12 +7,3 @@
 
   </q-layout>
 </template>
-
-<script>
-export default {
-  data () {
-    return {
-    }
-  }
-}
-</script>

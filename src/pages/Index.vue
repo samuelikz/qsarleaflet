@@ -4,10 +4,6 @@
   </q-page>
 </template>
 
-<script>
-import Mapid from '../components/Mapid'
-export default {
-  name: 'PageName',
-  components: { Mapid }
-}
+<script setup>
+import Mapid from '@/components/Mapid.vue'
 </script>
